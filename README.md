@@ -1,5 +1,9 @@
 # AWVS-13-SCAN-PLUS
-This is a companion software based on the Acunetix Web Vulnerability Scanner scanning engine.It basically implements most of the important functions such as vulnerability scanning in the case of abandoning the WEB interface, with the addition of batch import scanning and custom report document output.
-This is just a tool for personal use, mainly for convenience.
-This software only works with AWVS13, AWVS please install your own.
-Author: ZEROS
+
+This is an auxiliary software based on the Acunetix Web Vulnerability Scanner 13 scanning engine.
+
+It basically realizes most of the important functions such as vulnerability scanning without using WEB interface, with the addition of batch import scanning, custom report document output, Chinese and English translation and other functions.
+
+This software needs to run on .net framework 3.5 and AWVS Version 13.0. x, please install it yourself.
+
+By ZEROS
